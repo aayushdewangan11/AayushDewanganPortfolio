@@ -1,4 +1,4 @@
-# Aayush Dewangan Porfolio
+#Portfolio
 
 This is a portfolio of Aayush Dewangan currently pursuing B.Tech in Data Science & Artificial Intelligence from IIIT Naya Raipur.
 
